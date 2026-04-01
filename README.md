@@ -4,12 +4,16 @@
 - 🌱 Estou estudando React e Typescript
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,100:2c5364&height=180&section=header&text=Gabriel%20Braga%20Stats&fontSize=30&fontColor=ffffff" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Total%20Commits-Ativo-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Projetos-FullStack-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Node-blue?style=for-the-badge" />
+<div align="center" style="background-color:#0f172a;padding:20px;border-radius:15px;width:80%;margin:auto;">
 
+  <h2 style="color:#60a5fa;">Gabriel Braga's GitHub Stats</h2>
+
+  <p style="color:white;">⭐ Total Stars: 0</p>
+  <p style="color:white;">💻 Total Commits: 100+</p>
+  <p style="color:white;">🚀 Projects: 10+</p>
+  <p style="color:white;">🔥 Focus: Full-Stack</p>
+
+</div>
 </div>
     
 <div style="display: inline_block"><br>
