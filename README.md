@@ -2,9 +2,9 @@
 
 - 🔭 Hoje Trabalho como Desenvolvedor Full-Stack
 - 🌱 Estou estudando React e Typescript
-<div>
-  <img src="https://ghstats.dev/api/card?username=bragaDev751&theme=tokyonight&hide=issues,prs,contribs&border_radius=15" />
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
