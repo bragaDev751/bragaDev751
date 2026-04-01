@@ -1,15 +1,9 @@
-## Olá! Eu sou o Gabriel Braga
+## Olá! Eu sou o Gabriel Braga 
+💻 Desenvolvedor Full-Stack focado em criar aplicações modernas e escaláveis
 
-🚀 Desenvolvedor Full-Stack apaixonado por transformar ideias em produtos reais  
+🚀 Trabalhando com React, Next.js, TypeScript e integrações com APIs
 
-💻 Trabalho com:
-- React, Next.js e TypeScript
-- APIs REST e integração com Supabase
-- Interfaces modernas com foco em performance e experiência do usuário
-
-⚡ Atualmente focado em construir aplicações SaaS escaláveis e projetos reais prontos para produção
-
-📈 Em constante evolução no ecossistema web
+⚡ Construindo projetos reais com foco em performance, UX e deploy
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
