@@ -1,8 +1,15 @@
 ## Olá! Eu sou o Gabriel Braga
 
-- 🔭 Hoje Trabalho como Desenvolvedor Full-Stack
-- 🌱 Estou estudando React e Typescript
+🚀 Desenvolvedor Full-Stack apaixonado por transformar ideias em produtos reais  
 
+💻 Trabalho com:
+- React, Next.js e TypeScript
+- APIs REST e integração com Supabase
+- Interfaces modernas com foco em performance e experiência do usuário
+
+⚡ Atualmente focado em construir aplicações SaaS escaláveis e projetos reais prontos para produção
+
+📈 Em constante evolução no ecossistema web
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
