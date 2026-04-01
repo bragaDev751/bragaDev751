@@ -2,9 +2,14 @@
 
 - 🔭 Hoje Trabalho como Desenvolvedor Full-Stack
 - 🌱 Estou estudando React e Typescript
+
 <div align="center">
-  <<img src="https://github-readme-activity-graph.vercel.app/graph?username=bragaDev751&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bragaDev751&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,100:2c5364&height=180&section=header&text=Gabriel%20Braga%20Stats&fontSize=30&fontColor=ffffff" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Total%20Commits-Ativo-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projetos-FullStack-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Node-blue?style=for-the-badge" />
+
 </div>
     
 <div style="display: inline_block"><br>
