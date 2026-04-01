@@ -3,7 +3,7 @@
 - 🔭 Hoje Trabalho como Desenvolvedor Full-Stack
 - 🌱 Estou estudando React e Typescript
 <div>
-  <img src="https://ghstats.dev/api/card?username=bragaDev751&theme=tokyonight" />
+  <img src="https://ghstats.dev/api/card?username=bragaDev751&theme=tokyonight&hide=issues,prs,contribs&border_radius=12" />
 </div>
     
 <div style="display: inline_block"><br>
