@@ -2,18 +2,8 @@
 
 - 🔭 Hoje Trabalho como Desenvolvedor Full-Stack
 - 🌱 Estou estudando React e Typescript
-
-<div align="center">
-<div align="center" style="background-color:#0f172a;padding:20px;border-radius:15px;width:80%;margin:auto;">
-
-  <h2 style="color:#60a5fa;">Gabriel Braga's GitHub Stats</h2>
-
-  <p style="color:white;">⭐ Total Stars: 0</p>
-  <p style="color:white;">💻 Total Commits: 100+</p>
-  <p style="color:white;">🚀 Projects: 10+</p>
-  <p style="color:white;">🔥 Focus: Full-Stack</p>
-
-</div>
+<div>
+  <img src="https://ghstats.dev/api/card?username=bragaDev751&theme=tokyonight" />
 </div>
     
 <div style="display: inline_block"><br>
